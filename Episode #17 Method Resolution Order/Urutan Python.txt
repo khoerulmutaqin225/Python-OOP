@@ -1,0 +1,17 @@
+Episode #1 Pengenalan
+Episode #2 Constructor __init()
+Episode #3 Class dan Instance
+Episode #4 Methode
+Episode #5 Latihan OOP (objek saling serang)
+Episode #6 Latihan OOP tkinter
+Episode #7 Private Variabel
+Episode #8 Encapsulasi (buat semua variabel private dan mengambil nya dengan getter setter)
+Episode #9 Staticmethode dan Classmethod
+Episode #10 Getter dan Setter
+Episode #11 Latihan Encapsulasi
+Episode #12 Pendahuluan Inheritance
+Episode #13 Super
+Episode #14 Override Method
+Episode #15 Latihan Inheritance (Manajemen file)
+Episode #16 Multiple Inheritance
+Episode #17 Method Resolution Order
