@@ -1,0 +1,4 @@
+Episode #1 Pengenalan
+Episode #2 Constructor __init()
+Episode #3 Class dan Instance
+Episode #4 Methode
