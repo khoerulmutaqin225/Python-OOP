@@ -1,0 +1,8 @@
+Episode #1 Pengenalan
+Episode #2 Constructor __init()
+Episode #3 Class dan Instance
+Episode #4 Methode
+Episode #5 Latihan OOP (objek saling serang)
+Episode #6 Latihan OOP tkinter
+Episode #7 Private Variabel
+Episode #8 Encapsulasi (buat semua variabel private dan mengambil nya dengan getter setter)
